@@ -1,0 +1,108 @@
+.headings{
+    width: 99%;
+    height: 200px;
+    background-color: #0b0648;  
+    margin: auto;
+    padding: 10px;
+    background-image: url('headerphoto.jpg');
+    background-repeat: no-repeat;
+}
+.head1{
+    margin-left: .1%;
+    width: 13%;
+    height: 190px;
+    background-color: white;
+    float: left;
+    background-image: url('pProfile.jpg');
+    margin-top: .3%;
+}
+.head2{
+    width: 70%;
+    height: 200px; 
+    margin-left: 15%;
+    color: #0b0648;
+    font-family: Arial;
+    font-size: 12px;
+    margin-top: 2%;
+}
+.container {
+  width: 99%;
+  height: 700px;
+  background: white;
+  margin: auto;
+  padding: 10px;
+}
+
+.one {
+  width: 70%;
+  height: 700px;
+  background: #0b0648;
+  float: left;
+}
+
+.two {
+  margin-left: 20%;
+  height: 700px;
+  background: white;
+}
+.header {
+    color: #0b0648;
+    font-size: 50px;
+    text-indent: 40px;
+    margin-top: 80px;
+}
+.content {
+    color: white;
+    font-size: 30px;
+    text-indent: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.header1 {
+    color: white;
+    font-size: 50px;
+    text-indent: 40px;
+    margin-top: 80px;    
+}
+.aboutMe, .myGallery, .myContacts {
+    font-size: 50px;
+    margin-left: 50px;
+    color: #0b0648;
+}
+.container1{
+  width: 99%;
+  height: 200px;
+  background: #0b0648;
+  margin: auto;
+  padding: 10px;   
+}
+.footer{
+    height: 200px;
+    width: 80%;
+    background-color: #0b0648;
+    float: left;
+}
+.footer2{
+    width: 20%;
+    height: 200px;
+    background-color: #0b0648;  
+    float: right;
+}
+.aboutMe1, .myGallery1, .contacts1 {
+    color: white;
+    font-size: 24px;
+    margin-left: 50px;
+    
+}
+.credits{
+    font-size: 24px;
+    color: white;
+    margin-top: 24%;
+    margin-left: 18%;
+}
+
+
+
+
+
+
